@@ -1,0 +1,449 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* header-area start */
+
+.header{
+   
+    overflow: hidden;
+}
+.logo img{
+    width: 7%;
+    float: left;
+    margin-top: 10px;
+    padding-bottom: 7px;
+    margin-left: 15px;
+}
+.container{
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+  background-color: #EAEAEA;
+ 
+}
+
+.menu ul{
+    margin: 20px;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+}
+.menu ul li{
+ float: left;
+ list-style-type: none;
+}
+.menu ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    padding: 15px 20px;
+    color: black;
+  
+}
+.menu ul li a:hover{
+    color: blue;
+}
+/* header-area end */
+/* section-area start */
+.section-area{
+    overflow: hidden;
+}
+.left-arae{
+width: 50%;
+float: left;
+}
+.left-arae img{
+    width: 100%;
+    margin-left: 15px;
+}
+.right-area{
+width: 35%;
+float: left;
+padding-left: 80px;
+margin-bottom: 30px;
+}
+.right-area h2{
+font-size: 60px;
+font-weight: 600;
+}
+.right-area a{
+    background-color: red;
+    text-decoration: none;
+    padding: 8px 8px;
+    color: #fff;
+    border-radius: 3px;
+}
+/* section-area end */
+
+/* section-area2 start */
+.section-area2{
+    overflow: hidden;
+    padding-top: 30px;
+    margin: 0px;
+}
+.left-arae1{
+    width: 35%;
+    float: left;
+}
+.left-arae1 h2{
+    font-size: 60px;
+font-weight: 600;
+margin-left: 20px;
+padding-top: 80px;
+text-shadow: #b3acac 0px 8px;
+}
+.left-arae1 a{
+margin-left: 20px;
+background-color: red;
+text-decoration: none;
+padding: 8px 8px;
+color: #fff;
+border-radius: 3px;
+}
+.right-area1{
+width: 65%;
+float: left;
+background-color: #EAEAEA;
+}
+.right-area1 img{
+  width: 100%;
+  height: 500px;
+}
+/* section-area2 end */
+
+/* product-area start */
+.product-area{
+overflow: hidden;
+padding-top: 50px;
+padding-bottom: 40px;
+}
+.container{
+
+}
+.product-area img{
+width: 100%;
+height: 280px;
+background-color:#EAEAEA;
+}
+.star{
+    text-align: center;
+    margin-top: -40px;
+    margin-bottom: -10px;
+}
+i{
+    margin-bottom: 20px;
+    color: yellow;
+    background: #000;
+    border-radius: 3px;
+ }
+
+
+
+.product1{
+width: 22%;
+float: left;
+margin-right: 4%; 
+}
+.product1 p{
+    text-align: start;
+    font-weight: 600;
+}
+.product1 h6{
+    text-align: end;
+    font-size: large;
+    margin-top: -20px;
+}
+
+
+
+.product2{
+    width: 22%;
+    float: left;
+    margin-right: 4%; 
+}
+.product2 p{
+    text-align: start;
+    font-weight: 600;
+}
+.product2 h6{
+    text-align: end;
+    font-size: large;
+    margin-top: -20px;
+}
+
+.product3{
+    width: 22%;
+    float: left;
+    margin-right: 4%;  
+}
+.product3 p{
+    text-align: start;
+    font-weight: 600;
+}
+.product3 h6{
+    text-align: end;
+    font-size: large;
+    margin-top: -20px;
+}
+
+.product4{
+    width: 22%;
+    float: left;
+}
+.product4 p{
+    text-align: start;
+    font-weight: 600;
+}
+.product4 h6{
+    text-align: end;
+    font-size: large;
+    margin-top: -20px;
+}
+.btn{
+    text-align: center;
+    background-color: red;
+    padding: 6px;
+}
+.product-area a{
+    text-decoration: none;
+    color: #fff;
+}
+
+/* product-area end */
+
+/* service-area start */
+.service-area{
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.left{
+    width: 55%;
+    float: left;
+    margin-right: 5%;
+}
+.left img{
+    width: 100%;
+    background-color: #EAEAEA;
+} 
+.right{
+    margin-bottom: 10px;
+    width: 40%;
+    float: left;
+    margin-top: 55px;
+}
+.right h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 80px;
+    text-shadow: #b3acac 0px 8px;
+    
+}
+.text{
+    text-align: center;
+    margin-top: -30px;
+}
+.text a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    padding: 10px 15px;
+    margin-left: -75px;
+    border-radius: 3px;
+  
+}
+/* service-area start */
+
+
+/* t-shirt-area-start */
+.t-shirt-area{
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.t-shirt-area img{
+    width: 100%;
+    height: 280px;
+}
+.t-shirt1{
+width: 22%;
+float: left;
+margin-right: 4%; 
+}
+.t-shirt1 p{
+    text-align: start;
+    font-weight: 600;
+}
+.t-shirt1 h6{
+    text-align: end;
+    font-size: large;
+    margin-top: -20px;
+}
+
+.t-shirt2{
+width: 22%;
+float: left;
+margin-right: 4%; 
+}
+.t-shirt2 p{
+    text-align: start;
+    font-weight: 600;
+}
+.t-shirt2 h6{
+    text-align: end;
+    font-size: large;
+    margin-top: -20px;
+}
+
+.t-shirt3{
+ width: 22%;
+float: left;
+margin-right: 4%; 
+}
+.t-shirt3 p{
+    text-align: start;
+    font-weight: 600;
+}
+.t-shirt3 h6{
+    text-align: end;
+    font-size: large;
+    margin-top: -20px;
+}
+
+.t-shirt4{
+width: 22%;
+float: left;
+}
+.t-shirt4 p{
+    text-align: start;
+    font-weight: 600;
+}
+.t-shirt4 h6{
+    text-align: end;
+    font-size: large;
+    margin-top: -20px;
+}
+.t-star{
+    text-align: center;
+    margin-top: -40px;
+    margin-bottom: -10px;
+}
+.t-shirtbtn{
+    text-align: center;
+    background-color: red;
+    padding: 6px;
+}
+.t-shirtbtn a{
+    text-decoration: none;
+    color: #fff;
+}
+/* t-shirt-area-end */
+
+/* about-section start */
+.about-section{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.container{
+  
+}
+.about1{
+width: 48%;
+float: left;
+margin-right: 3%;
+margin-left: 1%;
+}
+.about-section h2{
+    font-size: 50px;
+    text-transform: capitalize;
+
+}
+.about-section p{
+    font-size: 20px;
+    word-break: break-all; 
+}
+.about-section a{
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius: 3px;
+   
+}
+.about2{
+    width: 48%;
+    float: left; 
+}
+.about-section img{
+    width: 100%;
+}
+/* about-section end */
+
+
+/* footer-area start */
+.footer-area{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow: hidden;
+}
+.container{
+   
+}
+.box1{
+    width: 48%;
+    float: left;
+    margin-left: 2%;
+}
+.footer-area h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer-area p{
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 48px;
+}
+.click{
+    text-align: center;
+    background-color: red;
+    padding: 6px;
+}
+.click a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+}
+.box2{
+    width: 48%;
+    float: left;
+    margin-left: 2%;
+    background-color: red;
+}
+.footer-area h2{
+    margin-left: 15px;
+    color: #fff;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.icon{
+    margin-top: -50px;
+}
+.footer-area h3{
+   font-size: 30px;
+   margin-left: 15px;
+   color: black;
+}
+.footer-area h4{
+    margin-left: 20px;
+    font-size: 20px;
+    color: #EAEAEA;
+}
+/* footer-area end */
