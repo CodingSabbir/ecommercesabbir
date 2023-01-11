@@ -1,0 +1,175 @@
+@media screen and (max-width:980px) {
+    .right-area{
+        width: 35%;
+        float: left;
+        padding-left: 80px;
+        margin-top: -50px;
+        }
+    .left-arae1 h2{
+        font-size: 70px;
+    font-weight: 600;
+    margin-left: 5px;
+    padding-top: 80px;
+    text-shadow: #b3acac 0px 8px;
+    }
+    .left-arae1 a{
+        font-size: 20px;
+        margin-left: 5px;
+        background-color: red;
+        text-decoration: none;
+        padding: 12px 12px;
+        color: #fff;
+        border-radius: 3px;
+        }
+        .right-area1 img{
+            width: 100%;
+            height: 400px;
+          }
+    .product-area img{
+        width: 100%;
+        height: 200px;
+        background-color:#EAEAEA;
+        }
+        .right{
+            width: 40%;
+            float: left;
+            margin-top: 20px;
+        }
+        .t-shirt-area img{
+            width: 100%;
+            height: 200px;
+        }
+        .about-section h2{
+          margin-top: -1px;
+            font-size: 50px;
+            text-transform: capitalize;
+        }
+        .about-section img{
+            width: 100%;
+            margin-top: 20px;
+        }
+        .footer-area p{
+            font-size: 20px;
+            text-transform: capitalize;
+            font-weight: 300;
+            color: black;
+            margin-bottom: 24px;
+        }
+        .footer-area h3{
+            margin-top: -0px;
+            font-size: 30px;
+            margin-left: 15px;
+            color: black;
+         }
+}
+
+@media screen and (max-width:768px) {
+    .left-arae1{
+        text-align: center;
+        width: 100%;
+        float: none;
+        margin-top: -100px;
+    }
+    .right-area1{
+        margin-top: 50px;
+        text-align: center;
+        width: 100%;
+        float: none;
+        background-color: #EAEAEA;
+        }
+      
+        .right h2 {
+            margin-top: 25px;
+            text-align: center;
+            font-weight: 700;
+            font-size: 80px;
+            text-shadow: #b3acac 0px 8px;
+            
+        }
+        .product1,.product2,.product3,.product4{
+            width: 46%;
+           margin-top: 20px;
+          
+        }
+        .product-area img{
+            height: 280px;
+        }
+        .t-shirt1,.t-shirt2,.t-shirt3,.t-shirt4{
+            width: 46%;
+            margin-top: 20px;
+        }
+        .t-shirt-area img{
+            height: 280px;
+        }
+        .about-section img {
+            width: 100%;
+            margin-top: 20px;
+            height: 300px;
+    
+}
+
+}
+
+@media screen and (max-width:480px) {
+    .product1,.product2,.product3,.product4{
+        width: 100%;
+       margin-top: 20px;
+      
+    }
+    .product-area img{
+        height: 350px;
+    }
+    .left{
+        width: 100%;
+        float: left;
+        margin-right: 5%;
+    }
+    .right{
+        width: 100%;
+        float: left;
+        margin-top: 55px;
+    }
+    .right-area h2{
+    padding-top: 30px;
+        font-size: 30px;
+    }
+    .t-shirt1,.t-shirt2,.t-shirt3,.t-shirt4{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .t-shirt-area img{
+        height: 350px;
+    }
+    .about1{
+        text-align: center;
+        width: 100%;
+        float: left;
+        margin-right: 3%;
+        margin-left: 1%;
+        }
+        .about2{
+            width: 100%;
+            float: left; 
+        }
+        .box1{
+            width: 100%;
+            float: left;
+        }
+        .box2{
+            margin-top: 30px;
+            width: 100%;
+            float: left;
+            background-color: red;
+        }
+        .left-arae{
+            width: 100%;
+            float: left;
+            }
+            .right-area{
+                width: 50%;
+                float: left;
+                }
+  
+}
+
+
